@@ -1,5 +1,5 @@
 # Music-Playlist
-Assignment#2
+Assignment#2 (CISC.3130-Data Stuctures)
 
 * Practice working with multiple input files
 * Review the creation of linked list class
